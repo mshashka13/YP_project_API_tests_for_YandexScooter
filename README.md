@@ -1,5 +1,5 @@
 ## __Тестирование API Яндекс Самокат__ 
-[Яндекс Самокат](https://qa-scooter.praktikum-services.ru "Перейти на сайт")
+[API документация Яндекс Самокат](https://qa-scooter.praktikum-services.ru/docs/ "Перейти")
 
 ___
 
